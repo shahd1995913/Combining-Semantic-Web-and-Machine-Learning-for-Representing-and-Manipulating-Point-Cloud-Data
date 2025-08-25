@@ -9,6 +9,9 @@ Combining Semantic Web and Machine Learning (SWeML) offers a powerful approach t
 
 ![Relation of research areas](https://github.com/user-attachments/assets/f4018c1e-3e1f-4754-854f-87ecf88124be)
 
+---
+
+
 **Reference:**  
 [Combining Machine Learning and Semantic Web: A Systematic Mapping Study](https://dl.acm.org/doi/full/10.1145/3586163)
 
